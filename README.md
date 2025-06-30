@@ -36,9 +36,9 @@ Leverage Wireshark to capture live network traffic, isolate key protocols, and a
 
 4. **Filtering & Inspection**
    - Applied filters:
-     - `tcp`
+      - `tcp`
        ![image](https://github.com/user-attachments/assets/fa88825c-ec55-4e95-bd89-0ba58292c1cf)
-    - `dns`
+      - `dns`
        ![image](https://github.com/user-attachments/assets/19b11631-1544-49ef-b783-81e78bf2db32)
    - Investigated packet metadata, flags, and response codes.
 
