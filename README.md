@@ -67,4 +67,4 @@ Leverage Wireshark to capture live network traffic, isolate key protocols, and a
 ## Deliverables
 
 - `Task5_capture.pcapng` – Raw capture file
-- `report_task5_detailed.pdf` – Advanced technical report
+- `report_task5_detailed.md` – Advanced technical report
